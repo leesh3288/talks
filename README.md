@@ -1,2 +1,3 @@
-# talks
-Repo for talk slides &amp; materials
+# Talks
+
+Repo for talk slides and related materials.
